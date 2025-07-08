@@ -6,8 +6,7 @@ This repository contains code, figures, and documentation related to the predict
 
 ## Contents
 - `notebook/`: Jupyter notebooks for model development, training, and SHAP analysis.
-- `data/`: Input descriptor matrix (public portion) and supporting example data.
-- `results/`: Generated figures (e.g., parity plots, SHAP plots) and model performance tables.
+- `data/`: Input descriptor matrix (public portion), Model files and supporting example data.
 - `requirements.txt`: List of required Python packages.
 - `README.md`: This file.
 - `LICENSE`: Repository license information (MIT License).
